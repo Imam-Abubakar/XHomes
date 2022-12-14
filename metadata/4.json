@@ -1,0 +1,33 @@
+{
+    "name": "Luxury Ontario Apartment",
+    "address": "3959 Victoria Park Ave, Toronto, Ontario",
+    "description": "Deluxe Apartment located in Ontario",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYzU23WtPbpaJmX9n3QiXzvD8cwqND4hV86WoSJTGYsXp/4.jpg",
+    "id": "4",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 20
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Condo"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 2400
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2007
+        }
+    ]
+}

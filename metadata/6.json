@@ -1,0 +1,33 @@
+{
+    "name": "Luxury Beachside Penthouse",
+    "address": "1041 Birchmount Road, Ontario",
+    "description": "2083 Kennedy Rd, Lindsay, Ontario",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYzU23WtPbpaJmX9n3QiXzvD8cwqND4hV86WoSJTGYsXp/6.jpeg",
+    "id": "6",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 35
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Condo"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 2400
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2008
+        }
+    ]
+}

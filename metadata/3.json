@@ -1,0 +1,33 @@
+{
+    "name": "Ontario Nature Home",
+    "address": "3412 Baker Street, Owen Sound, Ontario",
+    "description": "Duplex apartment with a small orchard",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYzU23WtPbpaJmX9n3QiXzvD8cwqND4hV86WoSJTGYsXp/3.jpeg",
+    "id": "3",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 35
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Farmhouse Residence"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 5
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 6
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 3000
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2005
+        }
+    ]
+}

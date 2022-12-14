@@ -1,0 +1,33 @@
+{
+    "name": "Architectural Urban Green Home",
+    "address": "175 Goyeau Ave, Windsor, Ontario",
+    "description": "Beautiful modern home in Windsor",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYzU23WtPbpaJmX9n3QiXzvD8cwqND4hV86WoSJTGYsXp/2.jpeg",
+    "id": "2",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 22
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Single family residence"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 3550
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 1996
+        }
+    ]
+}

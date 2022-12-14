@@ -1,0 +1,33 @@
+{
+    "name": "Deluxe Studio Home",
+    "address": "4174 MacLaren Street, Ottawa, Ontario",
+    "description": "Deluxe Studio located in Ontario",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYzU23WtPbpaJmX9n3QiXzvD8cwqND4hV86WoSJTGYsXp/5.jpeg",
+    "id": "5",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 14
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Studio"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 1800
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2016
+        }
+    ]
+}
